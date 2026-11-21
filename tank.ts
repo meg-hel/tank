@@ -7,7 +7,7 @@
  * Joystick-Protokoll: X+25,Y-40\n
  * Hinweis: Funk und Bluetooth in getrennten MakeCode-Programmen testen.
  */
-//% color="#0D47A1" icon="\uf1b9" block="Tank"
+//% color="#0D47A1" icon="\uf085" block="Tank"
 namespace tank {
     export enum Motor {
         //% block="links"
