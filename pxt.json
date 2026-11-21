@@ -1,0 +1,11 @@
+{
+  "name": "tank",
+  "description": "Motorsteuerung und Web-Bluetooth fuer Mini Tank mit Calliope mini V2",
+  "dependencies": {
+    "core": "*",
+    "v2": "*",
+    "bluetooth": "*"
+  },
+  "files": ["tank.ts"],
+  "supportedTargets": ["calliopemini"]
+}
